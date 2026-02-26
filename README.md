@@ -1,8 +1,6 @@
 <h1 align="center">✨ Full-Stack Product Store ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
-✨ Highlights
 
 - 🛒 Full-Stack Product Store
 - 🧰 REST API with Node.js & Express
